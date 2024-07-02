@@ -38,6 +38,7 @@ File Name: ${NAME}_screen
     }
 
 **Controller Template**
+
 Create Child Template File from Flutter ViewState 
 File Name: ${NAME}_controller
 Extension: dart
